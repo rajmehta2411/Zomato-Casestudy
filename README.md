@@ -32,5 +32,5 @@
 
 <br>
 
-**Check out the tables query :** [Click Here](https://github.com/vinitsangoi/SupplyChain-Analysis/blob/main/SuppyChain_Createtables.sql)
+**Check out the tables query :** [Click Here](CreateTable.sql)
 <br>**Check out the analysis query :** [Click Here](https://github.com/vinitsangoi/SupplyChain-Analysis/blob/main/SupplyChain_Analysis.sql)
