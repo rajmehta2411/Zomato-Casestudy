@@ -18,12 +18,11 @@
 
 
 # Analysis :-
-* We analyzed Top 50 products by orders
-* Total cost incurred at each plant
-* Plants which are operating at over-capacity
-* Product with total orders & quantity
-* Average transport day count 
-* Total rate of each port & many more.
+* Most popular item for each customer
+* Total orders and amount spent for each member before they beacame a member
+* How many days each customer visited zomato
+* First product purchased by every costumer
+* Items that were purchased just before customer beacme a member
 
 # Results :-
 * By getting a better understanding of markets through sales analytics, the business can find opportunities to grow revenue. 
