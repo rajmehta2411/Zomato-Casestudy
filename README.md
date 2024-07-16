@@ -33,3 +33,15 @@
 
 **Check out the tables query :** [Click Here](CreateTable.sql)
 <br>**Check out the analysis query :** [Click Here](Zomato-Casestudy_Analysis.sql)
+
+## 🚀 About Me
+A Data Analyst well equipped with Knowledge of SQL,Python,PowerBI and Excel.
+
+
+## 🛠 Skills
+SQL, Python, PowerBI, Excel and many more...
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rajmehta2411.github.io/Final.github.io//)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajmehta2411//)
